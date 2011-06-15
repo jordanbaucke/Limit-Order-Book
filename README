@@ -1,0 +1,20 @@
+http://www.opensourcetrader.com
+
+Limit Order Book -
+
+June, 2011 - A recent poll (conducted by the OST Project) of financial market 
+professionals debating the merits of various software technologies for financial 
+markets led to little consensus on the best choice for implementing large-scale 
+financial market trading solutions. 
+
+Some consensus amongst those surveyed existed reguarding broad paradaigms:
+Scalability
+Multitenancy
+Performance concerns 
+
+Respondants to the poll also largely chose 'Java' as: "The best object-oriented
+language for implementing a large-scale market trading application". 
+
+The second most popular response was: "Something Else", referring broadly too 
+object-oriented functional languages: OCaml impelementations such as F#, and
+some verson of Python. 
