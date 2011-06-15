@@ -1,0 +1,6 @@
+c:\users\jordan\documents\visual studio 2010\Projects\LOB\LOB\bin\Debug\LOB.XML
+c:\users\jordan\documents\visual studio 2010\Projects\LOB\LOB\bin\Debug\LOB.exe
+c:\users\jordan\documents\visual studio 2010\Projects\LOB\LOB\bin\Debug\LOB.pdb
+c:\users\jordan\documents\visual studio 2010\Projects\LOB\LOB\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 2010\Projects\LOB\LOB\obj\x86\Debug\LOB.exe
+c:\users\jordan\documents\visual studio 2010\Projects\LOB\LOB\obj\x86\Debug\LOB.pdb
