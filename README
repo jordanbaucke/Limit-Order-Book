@@ -2,6 +2,11 @@ http://www.opensourcetrader.com
 
 Limit Order Book -
 
+October, 2011 - I have uploaded a historical copy of the winning engine (voyager)
+from the '11 QuantCup Challenge. It is implemented in C++, and is in this repo
+@/Others/C++. Please review @/Others/README-Others for notes and considerations.
+I will continue to expand the Limit Order Book project as necessary...!  
+
 June, 2011 - A recent poll (conducted by the OST Project) of financial market 
 professionals debating the merits of various software technologies for financial 
 markets led to little consensus on the best choice for implementing large-scale 
