@@ -2,6 +2,12 @@ http://www.opensourcetrader.com
 
 Limit Order Book -
 
+May, 2012 - Conducting some expirementation with various OS for executing the software.
+Using 'QuantCup' solution in C, one should avoid Windows for ease of use and go straight
+to a Linux OS for an implementation of: 'CLOCK_MONOTONIC_RAW' compiled into the the Kernal
+headers. I'm not sure, but this should be implemented somewhere in a library for Cygwin
+or MinGw, but I couldn't find it. Good luck! Hoping to get some more work in soon.
+
 October, 2011 - I have uploaded a historical copy of the winning engine (voyager)
 from the '11 QuantCup Challenge. It is implemented in C++, and is in this repo
 @/Others/C++. Please review @/Others/README-Others for notes and considerations.
