@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>FSharp</name></assembly>
+<members>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="P:Program.SampleClassType.Sum">
+<summary>
+ Get the sum of the object arguments
+</summary>
+</member>
+<member name="M:Program.SampleClassType.Create">
+<summary>
+ Create an instance of the class type
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="T:Program.SampleClassType">
+<summary>
+ This is a sample class type. Delete it if it is not required.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:Program.Utilities.sampleFunction(System.Int32,System.Int32)">
+<summary>
+ This is a sample function
+</summary>
+</member>
+<member name="P:Program.Utilities.sampleValue">
+<summary>
+ This is a sample value
+</summary>
+</member>
+<member name="T:Program.Utilities">
+<summary>
+ This is a module to hold utility values and functions available in this file. 
+</summary>
+</member>
+<member name="T:Program">
+
+</member>
+</members>
+</doc>

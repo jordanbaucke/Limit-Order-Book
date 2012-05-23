@@ -1,0 +1,21 @@
+http://www.opensourcetrader.com
+
+Limited Order Book / Others
+
+10/29/2011 - '11 Quantcup Entries, provided here for historical and educational purposes.
+
+All implementations are the work of their respective authors and should be 
+treated as such. They have reserved all the rights to their work, and 
+as such may request that it be removed from this repository. 
+
+Please review any licenses distributed with the individual files.
+
+Please review the original implementation challenge included with this repo.
+
+This file was originally downloaded from: http://www.quantcup.org/home/.../ - 10/29/2011
+
+match.zip - extracted and archived in @/Others/match
+
+Final solutions: 
+
+C++ (Winner, 1st Place) - voyager, score: 14500.00, @ Others/C++/engine.c

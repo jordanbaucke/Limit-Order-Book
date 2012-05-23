@@ -1,0 +1,10 @@
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\FSharp\bin\Debug\FSharp.exe.config
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\FSharp\bin\Debug\FSharp.XML
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\FSharp\bin\Debug\FSharp.exe
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\FSharp\bin\Debug\FSharp.pdb
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\FSharp\bin\Debug\FSharp.Core.dll
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\FSharp\bin\Debug\FSharp.Core.xml
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\FSharp\bin\Debug\en\FSharp.Core.resources.dll
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\FSharp\obj\Debug\FSharp.fsprojResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\FSharp\obj\Debug\FSharp.exe
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\FSharp\obj\Debug\FSharp.pdb

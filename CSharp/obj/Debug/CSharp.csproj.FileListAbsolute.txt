@@ -1,0 +1,6 @@
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\CSharp\bin\Debug\CSharp.exe.config
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\CSharp\bin\Debug\CSharp.exe
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\CSharp\bin\Debug\CSharp.pdb
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\CSharp\obj\Debug\CSharp.exe
+c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\CSharp\obj\Debug\CSharp.pdb

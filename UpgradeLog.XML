@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Limit-Order-Book">
+</Property><Property Name="Solution File" Value="c:\users\jordan\documents\visual studio 11\Projects\Limit-Order-Book\Limit-Order-Book.sln">
+</Property><Property Name="Date" Value="Tuesday, May 22, 2012">
+</Property><Property Name="Time" Value="23:02:39 PM">
+</Property></Properties><Event ErrorLevel="3" Project="LOB" Source="..\..\..\GitHub\Limit-Order-Book\F#\LOB\LOB.fsproj" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="3" Project="LOB" Source="..\..\..\GitHub\Limit-Order-Book\F#\LOB\LOB.fsproj" Description="Converted">
+</Event></UpgradeLog>
