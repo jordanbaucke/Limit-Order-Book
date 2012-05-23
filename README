@@ -1,0 +1,38 @@
+http://www.opensourcetrader.com
+
+Limit Order Book -
+
+October, 2011 - I have uploaded a historical copy of the winning engine (voyager)
+from the '11 QuantCup Challenge. It is implemented in C++, and is in this repo
+@/Others/C++. Please review @/Others/README-Others for notes and considerations.
+I will continue to expand the Limit Order Book project as necessary...!  
+
+June, 2011 - A recent poll (conducted by the OST Project) of financial market 
+professionals debating the merits of various software technologies for financial 
+markets led to little consensus on the best choice for implementing large-scale 
+financial market trading solutions. 
+
+Some consensus amongst those surveyed existed regarding broad paradigms:
+Scalability
+Multitenancy
+Performance concerns (garbage-collection, memory management)
+Functional Language approaches tend to out-perform imperative languages
+
+Respondents to the poll also largely chose 'Java' as: "Which type of object 
+oriented language technology is best for a large financial trading application?". 
+
+The second most popular response was: "Something Else", referring broadly too 
+object-oriented functional languages: OCaml implementations such as F#, and/or
+some version of Python.
+
+Third and fourth were C++ and C#.NET respectively. 
+
+This project is attempt to begin to answer these questions via an open source
+project to implement a limit order book in 3 separate functional language technologies:
+F#, Scala, and Python.
+
+Interested parties are of course more than welcome to download, modify, and of course,
+contribute their knowledge to these projects. 
+
+The idea is that these projects will eventually form a larger foundation of best
+practices in the financial software industry, via an open source framework.
