@@ -1,6 +1,14 @@
-http://www.opensourcetrader.com
-
 Limit Order Book -
+
+Feb, 2018 - I am open to contribution to this project. I see a lot of forks, but
+I have not had any time to put in the effort needed to maintain this project.
+
+The C/C++ "QuantCup" code is the only functional example, and it is quiet old at This
+point.
+
+I would be interested in seeing this project grow to implement additional items such
+as a FIX ingest handler, as well as any other APIs and monitoring applications
+people feel ready to contribute. Additional language support is always appreciated!
 
 May, 2012 - Conducting some expirementation with various OS for executing the software.
 Using 'QuantCup' solution in C, one should avoid Windows for ease of use and go straight
@@ -11,12 +19,12 @@ or MinGw, but I couldn't find it. Good luck! Hoping to get some more work in soo
 October, 2011 - I have uploaded a historical copy of the winning engine (voyager)
 from the '11 QuantCup Challenge. It is implemented in C++, and is in this repo
 @/Others/C++. Please review @/Others/README-Others for notes and considerations.
-I will continue to expand the Limit Order Book project as necessary...!  
+I will continue to expand the Limit Order Book project as necessary...!
 
-June, 2011 - A recent poll (conducted by the OST Project) of financial market 
-professionals debating the merits of various software technologies for financial 
-markets led to little consensus on the best choice for implementing large-scale 
-financial market trading solutions. 
+June, 2011 - A recent poll (conducted by the OST Project) of financial market
+professionals debating the merits of various software technologies for financial
+markets led to little consensus on the best choice for implementing large-scale
+financial market trading solutions.
 
 Some consensus amongst those surveyed existed regarding broad paradigms:
 Scalability
@@ -24,21 +32,21 @@ Multitenancy
 Performance concerns (garbage-collection, memory management)
 Functional Language approaches tend to out-perform imperative languages
 
-Respondents to the poll also largely chose 'Java' as: "Which type of object 
-oriented language technology is best for a large financial trading application?". 
+Respondents to the poll also largely chose 'Java' as: "Which type of object
+oriented language technology is best for a large financial trading application?".
 
-The second most popular response was: "Something Else", referring broadly too 
+The second most popular response was: "Something Else", referring broadly too
 object-oriented functional languages: OCaml implementations such as F#, and/or
 some version of Python.
 
-Third and fourth were C++ and C#.NET respectively. 
+Third and fourth were C++ and C#.NET respectively.
 
 This project is attempt to begin to answer these questions via an open source
 project to implement a limit order book in 3 separate functional language technologies:
 F#, Scala, and Python.
 
 Interested parties are of course more than welcome to download, modify, and of course,
-contribute their knowledge to these projects. 
+contribute their knowledge to these projects.
 
 The idea is that these projects will eventually form a larger foundation of best
 practices in the financial software industry, via an open source framework.
